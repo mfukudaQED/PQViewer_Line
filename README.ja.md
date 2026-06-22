@@ -22,7 +22,7 @@
 
 ## 使い方
 
-1. ページを開く
+1. [PQViewer (Line)](https://mfukudaqed.github.io/PQViewer_Line/)ページを開く
 2. データファイル（CSV/TSVなど）をドラッグ＆ドロップ
 3. Control Panelで各種設定を調整
 4. 必要に応じてPNGとして保存

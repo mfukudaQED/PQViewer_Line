@@ -23,7 +23,7 @@ A lightweight browser-based 2D plotting viewer. It loads CSV/TSV/plain-text data
 
 ## Usage
 
-1. Open the web page
+1. Open the web page of [PQViewer (Line)](https://mfukudaqed.github.io/PQViewer_Line/) in your browser
 2. Drag and drop your data file (CSV/TSV/etc.)
 3. Adjust settings using the Control Panel
 4. Export the figure if needed

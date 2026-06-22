@@ -7,12 +7,6 @@ A lightweight browser-based 2D plotting viewer. It loads CSV/TSV/plain-text data
 
 ---
 
-## Demo
-
-Once deployed via GitHub Pages, simply open `index.html` in your browser to start using the viewer.
-
----
-
 ## Features
 
 - Drag & drop support for CSV / TSV / whitespace-delimited data
